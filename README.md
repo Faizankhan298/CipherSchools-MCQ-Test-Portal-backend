@@ -85,7 +85,7 @@ The backend server will start running on http://localhost:5000. 🚀🌐
 1. **MONGO_DB_URL="your_mongodb_connection_string"**
 2. **JWT_SECRET="faizan1234"**
 3. **SMTP_HOST="smtp.gmail.com"**
-4. **SMTP_PORT=587"**
+4. **SMTP_PORT=587**
 5. **SMTP_MAIL="your_email@example.com"**
 6. **SMTP_PASS="your_email_password"**
 
