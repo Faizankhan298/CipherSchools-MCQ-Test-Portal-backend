@@ -2,7 +2,7 @@
 
 🌟✨ The goal of this project is to create a web-based platform that offers a seamless and secure experience for students taking MCQ tests. The platform focuses on providing a robust user authentication system, an intuitive test-taking interface, and automated result processing. ✨🌟
 
-### Click  [here](link) to view in your browser. 🌐👀
+### Click  [https://cipherschools-mcq-test-portal-frontend.onrender.com/](https://cipherschools-mcq-test-portal-frontend.onrender.com/) to view in your browser. 🌐👀
 
 ## User Account for Testing
 
@@ -43,7 +43,7 @@ Please note that the result will not be shared. If you want to receive the resul
 
 1. **Clone the repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Faizankhan298/CipherSchools-MCQ-Test-Portal-frontend.git
 2. **Navigate to the project directory**
 
     ```bash
@@ -63,7 +63,7 @@ The frontend will start running on http://localhost:5173. 🚀🌐
 
 1. **Clone the repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Faizankhan298/CipherSchools-MCQ-Test-Portal-backend.git
 2. **Navigate to the project directory**
 
     ```bash
@@ -75,7 +75,7 @@ The frontend will start running on http://localhost:5173. 🚀🌐
 4. **Start the application**
 
     ```bash
-    npm start 
+    node index.js 
 5. **Connect to MongoDB**
     Ensure MongoDB is installed and running on your system. Update the connection string in the .env file if necessary.
     
